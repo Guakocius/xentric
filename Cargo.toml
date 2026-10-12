@@ -1,0 +1,13 @@
+[package]
+name = "xentric"
+version = "0.1.0"
+edition = "2024"
+description = "A GUI XMPP client written in Rust using egui"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Guakocius/xentric"
+readme = "README.md"
+keywords = ["xmpp", "gui", "client"]
+categories = ["gui", "network-programming"]
+
+[dependencies]
+egui = "0.36.2"
