@@ -8,7 +8,6 @@ repository = "https://github.com/Guakocius/xentric"
 readme = "README.md"
 keywords = ["xmpp", "gui", "client"]
 categories = ["gui", "network-programming"]
-exclude = ["Cargo.lock"]
 
 [dependencies]
 egui = "0.36.2"
