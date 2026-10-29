@@ -1,6 +1,6 @@
 [package]
 name = "xentric"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A GUI XMPP client written in Rust using egui"
 license = "MIT OR Apache-2.0"
