@@ -10,4 +10,8 @@ keywords = ["xmpp", "gui", "client"]
 categories = ["gui", "network-programming"]
 
 [dependencies]
+anyhow = "1.0.104"
+eframe = "0.36.2"
 egui = "0.36.2"
+egui_extras = "0.36.2"
+xmpp = "0.7.0"
