@@ -17,16 +17,9 @@ fn main() -> eframe::Result {
     )
 }
 
+#[derive(Default)]
 struct XentricApp {
     user: User,
-}
-
-impl Default for XentricApp {
-    fn default() -> Self {
-        Self {
-            user: User::default(),
-        }
-    }
 }
 
 struct Channel {
